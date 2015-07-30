@@ -7,9 +7,7 @@
 ******************************************************************/
 angular.module('app', [
   'ngRoute',
-  'LocalStorageModule',
   'navList',
-  'angularFileUpload',
   'app.config',
   'app.dashboard',
   'app.pages'
